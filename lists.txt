@@ -24708,3 +24708,4 @@ FishingBot  v2.13.15  - Starting fishing
 FishingBot
 v2.13.15
 Starting fishing
+I am level 1015 now
